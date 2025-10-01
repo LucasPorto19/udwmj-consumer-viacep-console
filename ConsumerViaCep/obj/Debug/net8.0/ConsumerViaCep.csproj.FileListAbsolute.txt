@@ -1,0 +1,14 @@
+c:\Users\322131744\Documents\ConsumerViaCep - Console\ConsumerViaCep\bin\Debug\net8.0\ConsumerViaCep.exe
+C:\Users\322131744\Documents\ConsumerViaCep - Console\ConsumerViaCep\bin\Debug\net8.0\ConsumerViaCep.deps.json
+C:\Users\322131744\Documents\ConsumerViaCep - Console\ConsumerViaCep\bin\Debug\net8.0\ConsumerViaCep.runtimeconfig.json
+c:\Users\322131744\Documents\ConsumerViaCep - Console\ConsumerViaCep\bin\Debug\net8.0\ConsumerViaCep.dll
+c:\Users\322131744\Documents\ConsumerViaCep - Console\ConsumerViaCep\bin\Debug\net8.0\ConsumerViaCep.pdb
+c:\Users\322131744\Documents\ConsumerViaCep - Console\ConsumerViaCep\obj\Debug\net8.0\ConsumerViaCep.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\322131744\Documents\ConsumerViaCep - Console\ConsumerViaCep\obj\Debug\net8.0\ConsumerViaCep.AssemblyInfoInputs.cache
+c:\Users\322131744\Documents\ConsumerViaCep - Console\ConsumerViaCep\obj\Debug\net8.0\ConsumerViaCep.AssemblyInfo.cs
+c:\Users\322131744\Documents\ConsumerViaCep - Console\ConsumerViaCep\obj\Debug\net8.0\ConsumerViaCep.csproj.CoreCompileInputs.cache
+c:\Users\322131744\Documents\ConsumerViaCep - Console\ConsumerViaCep\obj\Debug\net8.0\ConsumerViaCep.dll
+c:\Users\322131744\Documents\ConsumerViaCep - Console\ConsumerViaCep\obj\Debug\net8.0\refint\ConsumerViaCep.dll
+c:\Users\322131744\Documents\ConsumerViaCep - Console\ConsumerViaCep\obj\Debug\net8.0\ConsumerViaCep.pdb
+C:\Users\322131744\Documents\ConsumerViaCep - Console\ConsumerViaCep\obj\Debug\net8.0\ConsumerViaCep.genruntimeconfig.cache
+C:\Users\322131744\Documents\ConsumerViaCep - Console\ConsumerViaCep\obj\Debug\net8.0\ref\ConsumerViaCep.dll
